@@ -1,0 +1,7265 @@
+/*
+	@name a__l___ekran_
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; /*overflow-x:hidden;*/ }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: table; position: relative;  overflow: hidden;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_a__l___ekran__ek1 {
+	top: 0px;
+	left: 2236px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__a__l___ekran__ek2 {
+	top: 0px;
+	left: -2236px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#_19_30 {
+	top: -16px;
+	left: 34px;
+	width: 379px;
+	height: 207px;
+	font-family: Montserrat;
+	font-size: 146px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_27_aral_k_per_embe {
+	top: 190px;
+	left: 34px;
+	width: 353px;
+	height: 51px;
+	font-family: Montserrat;
+	font-size: 36px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#pil__arj_ediliyor___beyaz {
+	top: 259px;
+	left: 34px;
+	width: 34px;
+	height: 21px;
+}
+
+
+#piliniz_tam_dolu__bilgisayar_n_z__g___kayna__ndan_ay_rabilirsiniz_ {
+	top: 259px;
+	left: 75px;
+	width: 416px;
+	height: 19px;
+	font-family: Montserrat;
+	font-size: 13px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#page_parola_giri__ek1 {
+	top: 0px;
+	left: 4337px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__parola_giri__ek2 {
+	top: 0px;
+	left: -4337px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_1 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#g_____beyaz {
+	top: 152px;
+	left: 55px;
+	width: 51px;
+	height: 53px;
+}
+
+
+#ki_i___beyaz {
+	top: 222px;
+	left: 49px;
+	width: 62px;
+	height: 63px;
+}
+
+
+#ayarlar___beyaz__2_ {
+	top: 892px;
+	left: 55px;
+	width: 51px;
+	height: 51px;
+}
+
+
+#rectangle_9 {
+	top: 0px;
+	left: 1894px;
+	width: 26px;
+	height: 1080px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:#;
+	background: -webkit-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -o-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -moz-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -ms-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+}
+
+
+#klavye___beyaz {
+	top: 842px;
+	left: 52px;
+	width: 57px;
+	height: 42px;
+}
+
+
+#parolam__yenile___beyaz {
+	top: 765px;
+	left: 52px;
+	width: 57px;
+	height: 69px;
+}
+
+
+#_19_30_ek1 {
+	top: 366px;
+	left: 1467px;
+	width: 379px;
+	height: 207px;
+	font-family: Montserrat;
+	font-size: 146px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_27_aral_k_per_embe_ek1 {
+	top: 573px;
+	left: 1467px;
+	width: 353px;
+	height: 51px;
+	font-family: Montserrat;
+	font-size: 36px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#dde {
+	top: 715px;
+	left: 53px;
+	width: 53px;
+	height: 29px;
+	font-family: Montserrat;
+	font-size: 21px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#ellipse_1 {
+	top: 412px;
+	left: 214px;
+	width: 240px;
+	height: 240px;
+	-ms-border-radius: 128px / 128px;
+	-o-border-radius: 128px / 128px;
+	-moz-border-radius: 128px / 128px;
+	-webkit-border-radius: 128px / 128px;
+	border-radius: 128px / 128px;
+	border: 8px solid #ffffff;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#k1 {
+	top: 445px;
+	left: 261px;
+	width: 131px;
+	height: 156px;
+	font-family: Montserrat;
+	font-size: 110px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kullan_c__1 {
+	top: 423px;
+	left: 490px;
+	width: 411px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_11 {
+	top: 555px;
+	left: 490px;
+	width: 404px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(106,106,106,255);
+}
+
+
+#parola {
+	top: 558px;
+	left: 506px;
+	width: 64px;
+	height: 26px;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#929292;
+}
+
+
+#rectangle_6 {
+	top: 555px;
+	left: 845px;
+	width: 49px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#geri___beyaz {
+	top: 566px;
+	left: 859px;
+	width: 22.95751953125px;
+	height: 16px;
+}
+
+
+#pardus_logo___beyaz {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+
+#pil__arj_ediliyor___beyaz_ek1 {
+	top: 1061px;
+	left: 1898px;
+	width: 18px;
+	height: 11px;
+}
+
+
+#tur {
+	top: 869px;
+	left: 66px;
+	width: 29px;
+	height: 16px;
+	font-family: Montserrat;
+	font-size: 11px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+#page_oturum_tipi_se_imi_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__oturum_tipi_se_imi_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_3 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_4 {
+	top: 196px;
+	left: 32px;
+	width: 98px;
+	height: 688px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:12px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#_19_30_ek2 {
+	top: 366px;
+	left: 1467px;
+	width: 379px;
+	height: 207px;
+	font-family: Montserrat;
+	font-size: 146px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_27_aral_k_per_embe_ek2 {
+	top: 572px;
+	left: 1467px;
+	width: 353px;
+	height: 51px;
+	font-family: Montserrat;
+	font-size: 36px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#dde_ek1 {
+	top: 715px;
+	left: 53px;
+	width: 53px;
+	height: 29px;
+	font-family: Montserrat;
+	font-size: 21px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#xfce {
+	top: 668px;
+	left: 48px;
+	width: 63px;
+	height: 29px;
+	font-family: Montserrat;
+	font-size: 21px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#gnome {
+	top: 621px;
+	left: 34px;
+	width: 91px;
+	height: 29px;
+	font-family: Montserrat;
+	font-size: 21px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#lxde {
+	top: 574px;
+	left: 48px;
+	width: 63px;
+	height: 29px;
+	font-family: Montserrat;
+	font-size: 21px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#oturum_tipi {
+	top: 314px;
+	left: 34px;
+	width: 91px;
+	height: 54px;
+	font-family: Montserrat;
+	font-size: 21px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#ellipse_2 {
+	top: 412px;
+	left: 213px;
+	width: 240px;
+	height: 240px;
+	-ms-border-radius: 128px / 128px;
+	-o-border-radius: 128px / 128px;
+	-moz-border-radius: 128px / 128px;
+	-webkit-border-radius: 128px / 128px;
+	border-radius: 128px / 128px;
+	border: 8px solid #ffffff;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#k1_ek1 {
+	top: 445px;
+	left: 260px;
+	width: 131px;
+	height: 156px;
+	font-family: Montserrat;
+	font-size: 110px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kullan_c__1_ek1 {
+	top: 423px;
+	left: 490px;
+	width: 411px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_7 {
+	top: 555px;
+	left: 490px;
+	width: 404px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(106,106,106,255);
+}
+
+
+#parola_ek1 {
+	top: 558px;
+	left: 506px;
+	width: 64px;
+	height: 26px;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#929292;
+}
+
+
+#rectangle_8 {
+	top: 555px;
+	left: 845px;
+	width: 49px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#geri___beyaz_ek1 {
+	top: 566px;
+	left: 859px;
+	width: 22.95751953125px;
+	height: 16px;
+}
+
+
+#rectangle_10 {
+	top: 0px;
+	left: 1894px;
+	width: 26px;
+	height: 1080px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:#;
+	background: -webkit-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -o-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -moz-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -ms-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+}
+
+
+#pardus_logo___beyaz_ek1 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+
+#pil__arj_ediliyor___beyaz_ek2 {
+	top: 1061px;
+	left: 1898px;
+	width: 18px;
+	height: 11px;
+}
+
+#page_parbar_ek1 {
+	top: -1374px;
+	left: 2200px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__parbar_ek2 {
+	top: 1374px;
+	left: -2200px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_12 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_13 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#g_____beyaz_ek1 {
+	top: 152px;
+	left: 55px;
+	width: 51px;
+	height: 53px;
+}
+
+
+#ki_i___beyaz_ek1 {
+	top: 222px;
+	left: 49px;
+	width: 62px;
+	height: 63px;
+}
+
+
+#ayarlar___beyaz__2__ek1 {
+	top: 892px;
+	left: 55px;
+	width: 51px;
+	height: 51px;
+}
+
+
+#rectangle_14 {
+	top: 0px;
+	left: 1467px;
+	width: 453px;
+	height: 1080px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:#;
+	background: -webkit-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -o-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -moz-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -ms-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+}
+
+
+#klavye___beyaz_ek1 {
+	top: 842px;
+	left: 52px;
+	width: 57px;
+	height: 42px;
+}
+
+
+#parolam__yenile___beyaz_ek1 {
+	top: 765px;
+	left: 52px;
+	width: 57px;
+	height: 69px;
+}
+
+
+#_19_30_ek3 {
+	top: -11px;
+	left: 1484px;
+	width: 243px;
+	height: 132px;
+	font-family: Montserrat;
+	font-size: 93px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_27_aral_k_per_embe_ek3 {
+	top: 126px;
+	left: 1484px;
+	width: 198px;
+	height: 28px;
+	font-family: Montserrat;
+	font-size: 20px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#dde_ek2 {
+	top: 715px;
+	left: 53px;
+	width: 53px;
+	height: 29px;
+	font-family: Montserrat;
+	font-size: 21px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#ellipse_3 {
+	top: 412px;
+	left: 214px;
+	width: 240px;
+	height: 240px;
+	-ms-border-radius: 128px / 128px;
+	-o-border-radius: 128px / 128px;
+	-moz-border-radius: 128px / 128px;
+	-webkit-border-radius: 128px / 128px;
+	border-radius: 128px / 128px;
+	border: 8px solid #ffffff;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#k1_ek2 {
+	top: 445px;
+	left: 261px;
+	width: 131px;
+	height: 156px;
+	font-family: Montserrat;
+	font-size: 110px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kullan_c__1_ek2 {
+	top: 423px;
+	left: 490px;
+	width: 411px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_15 {
+	top: 555px;
+	left: 490px;
+	width: 404px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(106,106,106,255);
+}
+
+
+#parola_ek2 {
+	top: 558px;
+	left: 506px;
+	width: 64px;
+	height: 26px;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#929292;
+}
+
+
+#rectangle_16 {
+	top: 555px;
+	left: 845px;
+	width: 49px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#geri___beyaz_ek2 {
+	top: 566px;
+	left: 859px;
+	width: 22.95751953125px;
+	height: 16px;
+}
+
+
+#rectangle_17 {
+	top: 1046px;
+	left: 1467px;
+	width: 453px;
+	height: 34px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:#;
+	background: -webkit-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -o-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -moz-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -ms-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+}
+
+
+#pardus___pc {
+	top: 1047px;
+	left: 1484px;
+	width: 114px;
+	height: 26px;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_18 {
+	top: 1046px;
+	left: 1467px;
+	width: 11px;
+	height: 34px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:#;
+	background: -webkit-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -o-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -moz-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -ms-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+}
+
+
+#i {
+	top: 1047px;
+	left: 1468px;
+	width: 9px;
+	height: 26px;
+	font-family: Comfortaa;
+	font-size: 18px;
+	text-align: center;
+	color:#ffffff;
+}
+
+
+#kar___beyaz {
+	top: 217px;
+	left: 1485px;
+	width: 26px;
+	height: 25px;
+}
+
+
+#ankara___karl_ {
+	top: 212px;
+	left: 1519px;
+	width: 139px;
+	height: 28px;
+	font-family: Montserrat;
+	font-size: 20px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#__8_c {
+	top: 222px;
+	left: 1517px;
+	width: 140px;
+	height: 109px;
+	font-family: Montserrat;
+	font-size: 77px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#haberler {
+	top: 352px;
+	left: 1484px;
+	width: 149px;
+	height: 44px;
+	font-family: Montserrat;
+	font-size: 31px;
+	font-style: italic;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#line_1 {
+	top: 347px;
+	left: 1483px;
+	width: 422px;
+	height: 1px;
+}
+
+
+#geoporatl_manset_0 {
+	top: 409px;
+	left: 1475px;
+	width: 186.5px;
+	height: 101.5px;
+}
+
+
+#rectangle_19 {
+	top: 415px;
+	left: 1652px;
+	width: 206px;
+	height: 84px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#t_b_tak_uzay__n_geoportal_projesi_ba_ar_yla_tamamland_ {
+	top: 422px;
+	left: 1659px;
+	width: 182px;
+	height: 24px;
+	font-family: Montserrat;
+	font-size: 9px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#milli_uydular_m_z_i_in_yap_lan_geometrik_ve_radyometrik_kalibrasyon__al__malar_n__kapsayan_proje__t_rkiye_de_bir_ilk {
+	top: 452px;
+	left: 1659px;
+	width: 172px;
+	height: 25px;
+	font-family: Montserrat;
+	font-size: 6px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#devam_ {
+	top: 484px;
+	left: 1830px;
+	width: 28px;
+	height: 9px;
+	font-family: Montserrat;
+	font-size: 6px;
+	text-align: left;
+	color:#ffa200;
+}
+
+
+#periyodik_tablo_manset_0 {
+	top: 414px;
+	left: 1863px;
+	width: 170px;
+	height: 93px;
+}
+
+
+#line_2 {
+	top: 541px;
+	left: 1485px;
+	width: 422px;
+	height: 1px;
+}
+
+
+#pardus_forum {
+	top: 546px;
+	left: 1484px;
+	width: 237px;
+	height: 44px;
+	font-family: Montserrat;
+	font-size: 31px;
+	font-style: italic;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_20 {
+	top: 600px;
+	left: 1485px;
+	width: 329px;
+	height: 41px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#giri__ekran__tasar_m_yar__mas__duyurusu {
+	top: 610px;
+	left: 1493px;
+	width: 279px;
+	height: 19px;
+	font-family: Montserrat;
+	font-size: 13px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#devam__ek1 {
+	top: 615px;
+	left: 1781px;
+	width: 28px;
+	height: 9px;
+	font-family: Montserrat;
+	font-size: 6px;
+	text-align: left;
+	color:#ffa200;
+}
+
+
+#rectangle_21 {
+	top: 607px;
+	left: 1825px;
+	width: 239px;
+	height: 29px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#pard___ {
+	top: 612px;
+	left: 1839px;
+	width: 37px;
+	height: 15px;
+	font-family: Montserrat;
+	font-size: 10px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#geri___beyaz_ek3 {
+	top: 616px;
+	left: 1893px;
+	width: 15.9580078125px;
+	height: 11px;
+}
+
+
+#line_3 {
+	top: 672px;
+	left: 1485px;
+	width: 422px;
+	height: 1px;
+}
+
+
+#e_posta {
+	top: 677px;
+	left: 1484px;
+	width: 131px;
+	height: 44px;
+	font-family: Montserrat;
+	font-size: 31px;
+	font-style: italic;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_22 {
+	top: 736px;
+	left: 1484px;
+	width: 329px;
+	height: 41px;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#yeni_e_postan_z_yok_ {
+	top: 746px;
+	left: 1493px;
+	width: 132px;
+	height: 19px;
+	font-family: Montserrat;
+	font-size: 13px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#line_4 {
+	top: 812px;
+	left: 1485px;
+	width: 422px;
+	height: 1px;
+}
+
+
+#m_zik {
+	top: 817px;
+	left: 1485px;
+	width: 104px;
+	height: 44px;
+	font-family: Montserrat;
+	font-size: 31px;
+	font-style: italic;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#oynat___beyaz {
+	top: 876px;
+	left: 1677px;
+	width: 37px;
+	height: 37px;
+}
+
+
+#son__al_nanlar {
+	top: 834px;
+	left: 1804px;
+	width: 88px;
+	height: 16px;
+	font-family: Montserrat;
+	font-size: 11px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#geri_sar___beyaz {
+	top: 881px;
+	left: 1623px;
+	width: 33px;
+	height: 28px;
+}
+
+
+#geri_sar___beyaz_ek1 {
+	top: 881px;
+	left: 1735px;
+	width: 32.9541015625px;
+	height: 28px;
+}
+
+
+#yinele___beyaz {
+	top: 882px;
+	left: 1818px;
+	width: 26px;
+	height: 26px;
+}
+
+
+#__ {
+	top: 835px;
+	left: 1790px;
+	width: 10px;
+	height: 15px;
+	font-family: Calibri;
+	font-size: 11px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#___ek1 {
+	top: 834px;
+	left: 1896px;
+	width: 10px;
+	height: 15px;
+	font-family: Calibri;
+	font-size: 11px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kar__t_r___beyaz {
+	top: 882px;
+	left: 1844px;
+	width: 27px;
+	height: 26px;
+}
+
+
+#line_5 {
+	top: 922px;
+	left: 1503px;
+	width: 387px;
+	height: 1px;
+}
+
+
+#_0_00 {
+	top: 911px;
+	left: 1502px;
+	width: 18px;
+	height: 9px;
+	font-family: Montserrat;
+	font-size: 6px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#a7a7a7;
+}
+
+
+#_u_anda__al_nan_bir_par_a_yok_ {
+	top: 838px;
+	left: 1649px;
+	width: 97px;
+	height: 9px;
+	font-family: Montserrat;
+	font-size: 6px;
+	text-align: center;
+	color:#a7a7a7;
+}
+
+
+#rectangle_23 {
+	top: 169px;
+	left: 1478px;
+	width: 400px;
+	height: 18px;
+	-ms-border-radius: 5px;
+	-o-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,255);
+}
+
+
+#ara {
+	top: 169px;
+	left: 1486px;
+	width: 26px;
+	height: 16px;
+	font-family: Montserrat;
+	font-size: 11px;
+	font-style: italic;
+	text-align: center;
+	color:#5e5e5e;
+}
+
+
+#ellipse_4 {
+	top: 162px;
+	left: 1867px;
+	width: 32px;
+	height: 32px;
+	-ms-border-radius: 17px / 17px;
+	-o-border-radius: 17px / 17px;
+	-moz-border-radius: 17px / 17px;
+	-webkit-border-radius: 17px / 17px;
+	border-radius: 17px / 17px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(91,91,91,255);
+}
+
+
+#ara___beyaz {
+	top: 164px;
+	left: 1866px;
+	width: 37px;
+	height: 36px;
+}
+
+
+#pardus_logo___beyaz_ek2 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+
+#pil__arj_ediliyor___beyaz_ek3 {
+	top: 1053px;
+	left: 1876px;
+	width: 34px;
+	height: 21px;
+}
+
+
+#__100 {
+	top: 1052px;
+	left: 1837px;
+	width: 38px;
+	height: 19px;
+	font-family: Montserrat;
+	font-size: 13px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#tur_ek1 {
+	top: 869px;
+	left: 66px;
+	width: 29px;
+	height: 16px;
+	font-family: Montserrat;
+	font-size: 11px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+#page_ho__geldiniz_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__ho__geldiniz_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_1_ek1 {
+	top: 412px;
+	left: 214px;
+	width: 240px;
+	height: 240px;
+	-ms-border-radius: 128px / 128px;
+	-o-border-radius: 128px / 128px;
+	-moz-border-radius: 128px / 128px;
+	-webkit-border-radius: 128px / 128px;
+	border-radius: 128px / 128px;
+	border: 8px solid #ffffff;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#k1_ek3 {
+	top: 445px;
+	left: 261px;
+	width: 131px;
+	height: 156px;
+	font-family: Montserrat;
+	font-size: 110px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kullan_c__1_ek3 {
+	top: 472px;
+	left: 490px;
+	width: 411px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#ho__geldiniz_ek3 {
+	top: 472px;
+	left: 1039px;
+	width: 512px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#pardus___pc_pardus_19_dde_oturum_a__l_yor {
+	top: 603px;
+	left: 1039px;
+	width: 142px;
+	height: 83px;
+	font-family: Montserrat;
+	font-size: 17px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#pardus_logo___beyaz_ek3 {
+	top: 952px;
+	left: 897px;
+	width: 127px;
+	height: 118px;
+}
+
+#page_uyar___s_resi_dolmu__parola__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__uyar___s_resi_dolmu__parola__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2_ek1 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#g_____beyaz_ek2 {
+	top: 152px;
+	left: 55px;
+	width: 51px;
+	height: 53px;
+}
+
+
+#ki_i___beyaz_ek2 {
+	top: 222px;
+	left: 49px;
+	width: 62px;
+	height: 63px;
+}
+
+
+#ayarlar___beyaz__2__ek2 {
+	top: 892px;
+	left: 55px;
+	width: 51px;
+	height: 51px;
+}
+
+
+#rectangle_9_ek1 {
+	top: 0px;
+	left: 1894px;
+	width: 26px;
+	height: 1080px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:#;
+	background: -webkit-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -o-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -moz-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -ms-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+}
+
+
+#klavye___beyaz_ek2 {
+	top: 842px;
+	left: 52px;
+	width: 57px;
+	height: 42px;
+}
+
+
+#parolam__yenile___beyaz_ek2 {
+	top: 765px;
+	left: 52px;
+	width: 57px;
+	height: 69px;
+}
+
+
+#_19_30_ek4 {
+	top: 366px;
+	left: 1467px;
+	width: 379px;
+	height: 207px;
+	font-family: Montserrat;
+	font-size: 146px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_27_aral_k_per_embe_ek4 {
+	top: 573px;
+	left: 1467px;
+	width: 353px;
+	height: 51px;
+	font-family: Montserrat;
+	font-size: 36px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#dde_ek3 {
+	top: 715px;
+	left: 53px;
+	width: 53px;
+	height: 29px;
+	font-family: Montserrat;
+	font-size: 21px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#ellipse_1_ek2 {
+	top: 412px;
+	left: 214px;
+	width: 240px;
+	height: 240px;
+	-ms-border-radius: 128px / 128px;
+	-o-border-radius: 128px / 128px;
+	-moz-border-radius: 128px / 128px;
+	-webkit-border-radius: 128px / 128px;
+	border-radius: 128px / 128px;
+	border: 8px solid #ffffff;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#k1_ek4 {
+	top: 445px;
+	left: 261px;
+	width: 131px;
+	height: 156px;
+	font-family: Montserrat;
+	font-size: 110px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kullan_c__1_ek4 {
+	top: 423px;
+	left: 490px;
+	width: 411px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_11_ek1 {
+	top: 555px;
+	left: 490px;
+	width: 404px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(106,106,106,255);
+}
+
+
+#parola_ek3 {
+	top: 558px;
+	left: 506px;
+	width: 64px;
+	height: 26px;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#929292;
+}
+
+
+#rectangle_6_ek1 {
+	top: 555px;
+	left: 845px;
+	width: 49px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#geri___beyaz_ek4 {
+	top: 566px;
+	left: 859px;
+	width: 22.95751953125px;
+	height: 16px;
+}
+
+
+#rectangle_24 {
+	top: 899px;
+	left: 493px;
+	width: 933px;
+	height: 127px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(83,10,10,255);
+}
+
+
+#hata {
+	top: 908px;
+	left: 517px;
+	width: 53px;
+	height: 23px;
+	font-family: Montserrat;
+	font-size: 17px;
+	text-align: left;
+	color:#949494;
+}
+
+
+#parolan_z_n_s_resi_doldu_ {
+	top: 932px;
+	left: 517px;
+	width: 470px;
+	height: 52px;
+	font-family: Montserrat;
+	font-size: 37px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#uyar____k_rm_z_ {
+	top: 926px;
+	left: 1362px;
+	width: 36px;
+	height: 97px;
+}
+
+
+#__z_m__ner_s_ {
+	top: 908px;
+	left: 1027px;
+	width: 150px;
+	height: 23px;
+	font-family: Montserrat;
+	font-size: 17px;
+	text-align: left;
+	color:#949494;
+}
+
+
+#______simgesinden_parolan_z__yenileyin_ {
+	top: 947px;
+	left: 1027px;
+	width: 285px;
+	height: 54px;
+	font-family: Montserrat;
+	font-size: 21px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#parolam__yenile___beyaz_ek3 {
+	top: 944px;
+	left: 1018px;
+	width: 39px;
+	height: 45px;
+}
+
+
+#pardus_logo___beyaz_ek4 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+
+#pil__arj_ediliyor___beyaz_ek4 {
+	top: 1061px;
+	left: 1898px;
+	width: 18px;
+	height: 11px;
+}
+
+
+#tur_ek2 {
+	top: 869px;
+	left: 66px;
+	width: 29px;
+	height: 16px;
+	font-family: Montserrat;
+	font-size: 11px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+#page_parola_yenile___mevcut_parola_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__parola_yenile___mevcut_parola_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_1_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2_ek2 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#klavye___beyaz_ek3 {
+	top: 842px;
+	left: 52px;
+	width: 57px;
+	height: 42px;
+}
+
+
+#ellipse_1_ek3 {
+	top: 412px;
+	left: 214px;
+	width: 240px;
+	height: 240px;
+	-ms-border-radius: 128px / 128px;
+	-o-border-radius: 128px / 128px;
+	-moz-border-radius: 128px / 128px;
+	-webkit-border-radius: 128px / 128px;
+	border-radius: 128px / 128px;
+	border: 8px solid #ffffff;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#k1_ek5 {
+	top: 445px;
+	left: 261px;
+	width: 131px;
+	height: 156px;
+	font-family: Montserrat;
+	font-size: 110px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kullan_c__1_ek5 {
+	top: 423px;
+	left: 490px;
+	width: 411px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_11_ek2 {
+	top: 555px;
+	left: 490px;
+	width: 404px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(106,106,106,255);
+}
+
+
+#mevcut_parolan_z__yaz_n {
+	top: 558px;
+	left: 506px;
+	width: 222px;
+	height: 26px;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#929292;
+}
+
+
+#rectangle_6_ek2 {
+	top: 555px;
+	left: 845px;
+	width: 49px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#geri___beyaz_ek5 {
+	top: 566px;
+	left: 859px;
+	width: 22.95751953125px;
+	height: 16px;
+}
+
+
+#parolan_z__yenileyin {
+	top: 181px;
+	left: 214px;
+	width: 483px;
+	height: 68px;
+	font-family: Montserrat;
+	font-size: 48px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#pardus_logo___beyaz_ek5 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+
+#tur_ek3 {
+	top: 869px;
+	left: 66px;
+	width: 29px;
+	height: 16px;
+	font-family: Montserrat;
+	font-size: 11px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+#page_parola_yenile___yeni_parola_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__parola_yenile___yeni_parola_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_1_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2_ek3 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#klavye___beyaz_ek4 {
+	top: 842px;
+	left: 52px;
+	width: 57px;
+	height: 42px;
+}
+
+
+#ellipse_1_ek4 {
+	top: 412px;
+	left: 214px;
+	width: 240px;
+	height: 240px;
+	-ms-border-radius: 128px / 128px;
+	-o-border-radius: 128px / 128px;
+	-moz-border-radius: 128px / 128px;
+	-webkit-border-radius: 128px / 128px;
+	border-radius: 128px / 128px;
+	border: 8px solid #ffffff;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#k1_ek6 {
+	top: 445px;
+	left: 261px;
+	width: 131px;
+	height: 156px;
+	font-family: Montserrat;
+	font-size: 110px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kullan_c__1_ek6 {
+	top: 423px;
+	left: 490px;
+	width: 411px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_11_ek3 {
+	top: 555px;
+	left: 490px;
+	width: 404px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(106,106,106,255);
+}
+
+
+#yeni_parolan_z_yaz_n {
+	top: 558px;
+	left: 506px;
+	width: 188px;
+	height: 26px;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#929292;
+}
+
+
+#rectangle_6_ek3 {
+	top: 555px;
+	left: 845px;
+	width: 49px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#geri___beyaz_ek6 {
+	top: 566px;
+	left: 859px;
+	width: 22.9580078125px;
+	height: 16px;
+}
+
+
+#parolan_z__yenileyin_ek1 {
+	top: 181px;
+	left: 214px;
+	width: 483px;
+	height: 68px;
+	font-family: Montserrat;
+	font-size: 48px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#pardus_logo___beyaz_ek6 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+
+#tur_ek4 {
+	top: 869px;
+	left: 66px;
+	width: 29px;
+	height: 16px;
+	font-family: Montserrat;
+	font-size: 11px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+#page_parola_yenile___yeni_parola_tekrar_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__parola_yenile___yeni_parola_tekrar_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_1_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2_ek4 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#klavye___beyaz_ek5 {
+	top: 842px;
+	left: 52px;
+	width: 57px;
+	height: 42px;
+}
+
+
+#ellipse_1_ek5 {
+	top: 412px;
+	left: 214px;
+	width: 240px;
+	height: 240px;
+	-ms-border-radius: 128px / 128px;
+	-o-border-radius: 128px / 128px;
+	-moz-border-radius: 128px / 128px;
+	-webkit-border-radius: 128px / 128px;
+	border-radius: 128px / 128px;
+	border: 8px solid #ffffff;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#k1_ek7 {
+	top: 445px;
+	left: 261px;
+	width: 131px;
+	height: 156px;
+	font-family: Montserrat;
+	font-size: 110px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kullan_c__1_ek7 {
+	top: 423px;
+	left: 490px;
+	width: 411px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_11_ek4 {
+	top: 555px;
+	left: 490px;
+	width: 404px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(106,106,106,255);
+}
+
+
+#yeni_parolan_z__tekrar_yaz_n {
+	top: 558px;
+	left: 506px;
+	width: 254px;
+	height: 26px;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#929292;
+}
+
+
+#rectangle_6_ek4 {
+	top: 555px;
+	left: 845px;
+	width: 49px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#geri___beyaz_ek7 {
+	top: 566px;
+	left: 859px;
+	width: 22.9580078125px;
+	height: 16px;
+}
+
+
+#parolan_z__yenileyin_ek2 {
+	top: 181px;
+	left: 214px;
+	width: 483px;
+	height: 68px;
+	font-family: Montserrat;
+	font-size: 48px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#pardus_logo___beyaz_ek7 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+
+#tur_ek5 {
+	top: 869px;
+	left: 66px;
+	width: 29px;
+	height: 16px;
+	font-family: Montserrat;
+	font-size: 11px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+#page_parola_yenile___tamam_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__parola_yenile___tamam_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_1_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#ellipse_1_ek6 {
+	top: 412px;
+	left: 214px;
+	width: 240px;
+	height: 240px;
+	-ms-border-radius: 128px / 128px;
+	-o-border-radius: 128px / 128px;
+	-moz-border-radius: 128px / 128px;
+	-webkit-border-radius: 128px / 128px;
+	border-radius: 128px / 128px;
+	border: 8px solid #ffffff;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#k1_ek8 {
+	top: 445px;
+	left: 261px;
+	width: 131px;
+	height: 156px;
+	font-family: Montserrat;
+	font-size: 110px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kullan_c__1_ek8 {
+	top: 423px;
+	left: 490px;
+	width: 411px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#parolan_z_yenilendi_ {
+	top: 541px;
+	left: 490px;
+	width: 436px;
+	height: 62px;
+	font-family: Montserrat;
+	font-size: 43px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_25 {
+	top: 462px;
+	left: 953px;
+	width: 218px;
+	height: 57px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#oturum_a_ {
+	top: 472px;
+	left: 971px;
+	width: 133px;
+	height: 33px;
+	font-family: Montserrat;
+	font-size: 23px;
+	text-align: left;
+	color:#929292;
+}
+
+
+#pardus_logo___beyaz_ek8 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+#page_klavye_dili_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__klavye_dili_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_1_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2_ek5 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#rectangle_9_ek2 {
+	top: 0px;
+	left: 1894px;
+	width: 26px;
+	height: 1080px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:#;
+	background: -webkit-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -o-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -moz-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -ms-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+}
+
+
+#klavye___beyaz_ek6 {
+	top: 897px;
+	left: 52px;
+	width: 57px;
+	height: 42px;
+}
+
+
+#_19_30_ek5 {
+	top: 366px;
+	left: 1467px;
+	width: 379px;
+	height: 207px;
+	font-family: Montserrat;
+	font-size: 146px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_27_aral_k_per_embe_ek5 {
+	top: 573px;
+	left: 1467px;
+	width: 353px;
+	height: 51px;
+	font-family: Montserrat;
+	font-size: 36px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#ellipse_1_ek7 {
+	top: 412px;
+	left: 214px;
+	width: 240px;
+	height: 240px;
+	-ms-border-radius: 128px / 128px;
+	-o-border-radius: 128px / 128px;
+	-moz-border-radius: 128px / 128px;
+	-webkit-border-radius: 128px / 128px;
+	border-radius: 128px / 128px;
+	border: 8px solid #ffffff;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#k1_ek9 {
+	top: 445px;
+	left: 261px;
+	width: 131px;
+	height: 156px;
+	font-family: Montserrat;
+	font-size: 110px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kullan_c__1_ek9 {
+	top: 423px;
+	left: 490px;
+	width: 411px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_11_ek5 {
+	top: 555px;
+	left: 490px;
+	width: 404px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(106,106,106,255);
+}
+
+
+#parola_ek4 {
+	top: 558px;
+	left: 506px;
+	width: 64px;
+	height: 26px;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#929292;
+}
+
+
+#rectangle_6_ek5 {
+	top: 555px;
+	left: 845px;
+	width: 49px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#geri___beyaz_ek8 {
+	top: 566px;
+	left: 859px;
+	width: 22.95751953125px;
+	height: 16px;
+}
+
+
+#t_rk_e {
+	top: 439px;
+	left: 43px;
+	width: 73px;
+	height: 22px;
+	font-family: Montserrat;
+	font-size: 16px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_ng_l_zce_english {
+	top: 482px;
+	left: 35px;
+	width: 89px;
+	height: 32px;
+	font-family: Montserrat;
+	font-size: 16px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#daha_fazla___beyaz {
+	top: 544px;
+	left: 59px;
+	width: 43px;
+	height: 43px;
+}
+
+
+#pardus_logo___beyaz_ek9 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+
+#pil__arj_ediliyor___beyaz_ek5 {
+	top: 1061px;
+	left: 1898px;
+	width: 18px;
+	height: 11px;
+}
+
+#page_g___se_enekleri_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__g___se_enekleri_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_1_ek8 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2_ek6 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#g_____beyaz_ek3 {
+	top: 152px;
+	left: 55px;
+	width: 51px;
+	height: 53px;
+}
+
+
+#rectangle_9_ek3 {
+	top: 0px;
+	left: 1894px;
+	width: 26px;
+	height: 1080px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:#;
+	background: -webkit-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -o-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -moz-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -ms-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+}
+
+
+#_19_30_ek6 {
+	top: 366px;
+	left: 1467px;
+	width: 379px;
+	height: 207px;
+	font-family: Montserrat;
+	font-size: 146px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_27_aral_k_per_embe_ek6 {
+	top: 573px;
+	left: 1467px;
+	width: 353px;
+	height: 51px;
+	font-family: Montserrat;
+	font-size: 36px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#ellipse_1_ek8 {
+	top: 412px;
+	left: 214px;
+	width: 240px;
+	height: 240px;
+	-ms-border-radius: 128px / 128px;
+	-o-border-radius: 128px / 128px;
+	-moz-border-radius: 128px / 128px;
+	-webkit-border-radius: 128px / 128px;
+	border-radius: 128px / 128px;
+	border: 8px solid #ffffff;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#k1_ek10 {
+	top: 445px;
+	left: 261px;
+	width: 131px;
+	height: 156px;
+	font-family: Montserrat;
+	font-size: 110px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kullan_c__1_ek10 {
+	top: 423px;
+	left: 490px;
+	width: 411px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_11_ek6 {
+	top: 555px;
+	left: 490px;
+	width: 404px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(106,106,106,255);
+}
+
+
+#parola_ek5 {
+	top: 558px;
+	left: 506px;
+	width: 64px;
+	height: 26px;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#929292;
+}
+
+
+#rectangle_6_ek6 {
+	top: 555px;
+	left: 845px;
+	width: 49px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#geri___beyaz_ek9 {
+	top: 566px;
+	left: 859px;
+	width: 22.95751953125px;
+	height: 16px;
+}
+
+
+#reboot___beyaz {
+	top: 237px;
+	left: 55px;
+	width: 51px;
+	height: 57px;
+}
+
+
+#line_6 {
+	top: 324px;
+	left: 63px;
+	width: 23px;
+	height: 55px;
+}
+
+
+#line_7 {
+	top: 324px;
+	left: 74px;
+	width: 23px;
+	height: 55px;
+}
+
+
+#ay___beyaz {
+	top: 409px;
+	left: 55px;
+	width: 51px;
+	height: 52px;
+}
+
+
+#pardus_logo___beyaz_ek10 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+
+#pil__arj_ediliyor___beyaz_ek6 {
+	top: 1061px;
+	left: 1898px;
+	width: 18px;
+	height: 11px;
+}
+
+#page_parola_yenile___klavye_dili___mevcut_parola_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__parola_yenile___klavye_dili___mevcut_parola_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_1_ek9 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2_ek7 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#klavye___beyaz_ek7 {
+	top: 897px;
+	left: 52px;
+	width: 57px;
+	height: 42px;
+}
+
+
+#_19_30_ek7 {
+	top: 366px;
+	left: 1467px;
+	width: 379px;
+	height: 207px;
+	font-family: Montserrat;
+	font-size: 146px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_27_aral_k_per_embe_ek7 {
+	top: 573px;
+	left: 1467px;
+	width: 353px;
+	height: 51px;
+	font-family: Montserrat;
+	font-size: 36px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#ellipse_1_ek9 {
+	top: 412px;
+	left: 214px;
+	width: 240px;
+	height: 240px;
+	-ms-border-radius: 128px / 128px;
+	-o-border-radius: 128px / 128px;
+	-moz-border-radius: 128px / 128px;
+	-webkit-border-radius: 128px / 128px;
+	border-radius: 128px / 128px;
+	border: 8px solid #ffffff;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#k1_ek11 {
+	top: 445px;
+	left: 261px;
+	width: 131px;
+	height: 156px;
+	font-family: Montserrat;
+	font-size: 110px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kullan_c__1_ek11 {
+	top: 423px;
+	left: 490px;
+	width: 411px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_11_ek7 {
+	top: 555px;
+	left: 490px;
+	width: 404px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(106,106,106,255);
+}
+
+
+#mevcut_parolan_z__yaz_n_ek1 {
+	top: 558px;
+	left: 506px;
+	width: 222px;
+	height: 26px;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#929292;
+}
+
+
+#rectangle_6_ek7 {
+	top: 555px;
+	left: 845px;
+	width: 49px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#geri___beyaz_ek10 {
+	top: 566px;
+	left: 859px;
+	width: 22.95751953125px;
+	height: 16px;
+}
+
+
+#t_rk_e_ek1 {
+	top: 439px;
+	left: 43px;
+	width: 73px;
+	height: 22px;
+	font-family: Montserrat;
+	font-size: 16px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_ng_l_zce_english_ek1 {
+	top: 482px;
+	left: 35px;
+	width: 89px;
+	height: 32px;
+	font-family: Montserrat;
+	font-size: 16px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#daha_fazla___beyaz_ek1 {
+	top: 544px;
+	left: 59px;
+	width: 43px;
+	height: 43px;
+}
+
+
+#pardus_logo___beyaz_ek11 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+#page_parola_yenile___klavye_dili___yeni_parola_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__parola_yenile___klavye_dili___yeni_parola_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_1_ek10 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2_ek8 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#klavye___beyaz_ek8 {
+	top: 897px;
+	left: 52px;
+	width: 57px;
+	height: 42px;
+}
+
+
+#_19_30_ek8 {
+	top: 366px;
+	left: 1467px;
+	width: 379px;
+	height: 207px;
+	font-family: Montserrat;
+	font-size: 146px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_27_aral_k_per_embe_ek8 {
+	top: 573px;
+	left: 1467px;
+	width: 353px;
+	height: 51px;
+	font-family: Montserrat;
+	font-size: 36px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#ellipse_1_ek10 {
+	top: 412px;
+	left: 214px;
+	width: 240px;
+	height: 240px;
+	-ms-border-radius: 128px / 128px;
+	-o-border-radius: 128px / 128px;
+	-moz-border-radius: 128px / 128px;
+	-webkit-border-radius: 128px / 128px;
+	border-radius: 128px / 128px;
+	border: 8px solid #ffffff;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#k1_ek12 {
+	top: 445px;
+	left: 261px;
+	width: 131px;
+	height: 156px;
+	font-family: Montserrat;
+	font-size: 110px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kullan_c__1_ek12 {
+	top: 423px;
+	left: 490px;
+	width: 411px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_11_ek8 {
+	top: 555px;
+	left: 490px;
+	width: 404px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(106,106,106,255);
+}
+
+
+#yeni_parolan_z__yaz_n {
+	top: 558px;
+	left: 506px;
+	width: 193px;
+	height: 26px;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#929292;
+}
+
+
+#rectangle_6_ek8 {
+	top: 555px;
+	left: 845px;
+	width: 49px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#geri___beyaz_ek11 {
+	top: 566px;
+	left: 859px;
+	width: 22.9580078125px;
+	height: 16px;
+}
+
+
+#t_rk_e_ek2 {
+	top: 439px;
+	left: 43px;
+	width: 73px;
+	height: 22px;
+	font-family: Montserrat;
+	font-size: 16px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_ng_l_zce_english_ek2 {
+	top: 482px;
+	left: 35px;
+	width: 89px;
+	height: 32px;
+	font-family: Montserrat;
+	font-size: 16px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#daha_fazla___beyaz_ek2 {
+	top: 544px;
+	left: 59px;
+	width: 43px;
+	height: 43px;
+}
+
+
+#pardus_logo___beyaz_ek12 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+#page_parola_yenile___klavye_dili___yeni_parola_tekrar_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__parola_yenile___klavye_dili___yeni_parola_tekrar_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_1_ek11 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2_ek9 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#klavye___beyaz_ek9 {
+	top: 897px;
+	left: 52px;
+	width: 57px;
+	height: 42px;
+}
+
+
+#_19_30_ek9 {
+	top: 366px;
+	left: 1467px;
+	width: 379px;
+	height: 207px;
+	font-family: Montserrat;
+	font-size: 146px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_27_aral_k_per_embe_ek9 {
+	top: 573px;
+	left: 1467px;
+	width: 353px;
+	height: 51px;
+	font-family: Montserrat;
+	font-size: 36px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#ellipse_1_ek11 {
+	top: 412px;
+	left: 214px;
+	width: 240px;
+	height: 240px;
+	-ms-border-radius: 128px / 128px;
+	-o-border-radius: 128px / 128px;
+	-moz-border-radius: 128px / 128px;
+	-webkit-border-radius: 128px / 128px;
+	border-radius: 128px / 128px;
+	border: 8px solid #ffffff;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#k1_ek13 {
+	top: 445px;
+	left: 261px;
+	width: 131px;
+	height: 156px;
+	font-family: Montserrat;
+	font-size: 110px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kullan_c__1_ek13 {
+	top: 423px;
+	left: 490px;
+	width: 411px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_11_ek9 {
+	top: 555px;
+	left: 490px;
+	width: 404px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(106,106,106,255);
+}
+
+
+#yeni_parolan_z__tekrar_yaz_n_ek1 {
+	top: 558px;
+	left: 506px;
+	width: 254px;
+	height: 26px;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#929292;
+}
+
+
+#rectangle_6_ek9 {
+	top: 555px;
+	left: 845px;
+	width: 49px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#geri___beyaz_ek12 {
+	top: 566px;
+	left: 859px;
+	width: 22.9580078125px;
+	height: 16px;
+}
+
+
+#t_rk_e_ek3 {
+	top: 439px;
+	left: 43px;
+	width: 73px;
+	height: 22px;
+	font-family: Montserrat;
+	font-size: 16px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_ng_l_zce_english_ek3 {
+	top: 482px;
+	left: 35px;
+	width: 89px;
+	height: 32px;
+	font-family: Montserrat;
+	font-size: 16px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#daha_fazla___beyaz_ek3 {
+	top: 544px;
+	left: 59px;
+	width: 43px;
+	height: 43px;
+}
+
+
+#pardus_logo___beyaz_ek13 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+#page_uyar___bilgisayar_kapat_lam_yor__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__uyar___bilgisayar_kapat_lam_yor__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_1_ek12 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2_ek10 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#g_____beyaz_ek4 {
+	top: 152px;
+	left: 55px;
+	width: 51px;
+	height: 53px;
+}
+
+
+#ki_i___beyaz_ek3 {
+	top: 222px;
+	left: 49px;
+	width: 62px;
+	height: 63px;
+}
+
+
+#ayarlar___beyaz__2__ek3 {
+	top: 892px;
+	left: 55px;
+	width: 51px;
+	height: 51px;
+}
+
+
+#rectangle_9_ek4 {
+	top: 0px;
+	left: 1894px;
+	width: 26px;
+	height: 1080px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:#;
+	background: -webkit-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -o-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -moz-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -ms-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+}
+
+
+#klavye___beyaz_ek10 {
+	top: 842px;
+	left: 52px;
+	width: 57px;
+	height: 42px;
+}
+
+
+#parolam__yenile___beyaz_ek4 {
+	top: 765px;
+	left: 52px;
+	width: 57px;
+	height: 69px;
+}
+
+
+#_19_30_ek10 {
+	top: 366px;
+	left: 1467px;
+	width: 379px;
+	height: 207px;
+	font-family: Montserrat;
+	font-size: 146px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_27_aral_k_per_embe_ek10 {
+	top: 573px;
+	left: 1467px;
+	width: 353px;
+	height: 51px;
+	font-family: Montserrat;
+	font-size: 36px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#dde_ek4 {
+	top: 715px;
+	left: 53px;
+	width: 53px;
+	height: 29px;
+	font-family: Montserrat;
+	font-size: 21px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#ellipse_1_ek12 {
+	top: 412px;
+	left: 214px;
+	width: 240px;
+	height: 240px;
+	-ms-border-radius: 128px / 128px;
+	-o-border-radius: 128px / 128px;
+	-moz-border-radius: 128px / 128px;
+	-webkit-border-radius: 128px / 128px;
+	border-radius: 128px / 128px;
+	border: 8px solid #ffffff;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#k1_ek14 {
+	top: 445px;
+	left: 261px;
+	width: 131px;
+	height: 156px;
+	font-family: Montserrat;
+	font-size: 110px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kullan_c__1_ek14 {
+	top: 423px;
+	left: 490px;
+	width: 411px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_11_ek10 {
+	top: 555px;
+	left: 490px;
+	width: 404px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(106,106,106,255);
+}
+
+
+#parola_ek6 {
+	top: 558px;
+	left: 506px;
+	width: 64px;
+	height: 26px;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#929292;
+}
+
+
+#rectangle_6_ek10 {
+	top: 555px;
+	left: 845px;
+	width: 49px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#geri___beyaz_ek13 {
+	top: 566px;
+	left: 859px;
+	width: 22.95751953125px;
+	height: 16px;
+}
+
+
+#rectangle_24_ek1 {
+	top: 899px;
+	left: 493px;
+	width: 933px;
+	height: 127px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(83,10,10,255);
+}
+
+
+#uyari {
+	top: 908px;
+	left: 517px;
+	width: 59px;
+	height: 23px;
+	font-family: Montserrat;
+	font-size: 17px;
+	text-align: left;
+	color:#949494;
+}
+
+
+#bilgisayar_kapat_lam_yor__kullan_c__2_oturumu_a__k__l_tfen_kullan_c__2_oturumunu_kapat_n_ {
+	top: 934px;
+	left: 517px;
+	width: 738px;
+	height: 54px;
+	font-family: Montserrat;
+	font-size: 21px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#uyar____k_rm_z__ek1 {
+	top: 926px;
+	left: 1362px;
+	width: 36px;
+	height: 97px;
+}
+
+
+#pardus_logo___beyaz_ek14 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+
+#pil__arj_ediliyor___beyaz_ek7 {
+	top: 1061px;
+	left: 1898px;
+	width: 18px;
+	height: 11px;
+}
+
+
+#tur_ek6 {
+	top: 869px;
+	left: 66px;
+	width: 29px;
+	height: 16px;
+	font-family: Montserrat;
+	font-size: 11px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+#page_yeniden_ba_latma_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__yeniden_ba_latma_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek16 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_1_ek13 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2_ek11 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#bilgisayar_n_z_yeniden_ba_lat_ls_n_m__ {
+	top: 187px;
+	left: 158px;
+	width: 1689px;
+	height: 126px;
+	font-family: Montserrat;
+	font-size: 89px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#reboot___beyaz_ek1 {
+	top: 237px;
+	left: 55px;
+	width: 51px;
+	height: 57px;
+}
+
+
+#tik___beyaz {
+	top: 500px;
+	left: 48px;
+	width: 64px;
+	height: 52px;
+}
+
+
+#_arp____beyaz {
+	top: 589px;
+	left: 57px;
+	width: 40px;
+	height: 40px;
+}
+
+
+#evet___imdi_yeniden_ba_lat_ {
+	top: 486px;
+	left: 158px;
+	width: 581px;
+	height: 60px;
+	font-family: Montserrat;
+	font-size: 42px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#hay_r__yeniden_ba_latma_ {
+	top: 572px;
+	left: 158px;
+	width: 537px;
+	height: 60px;
+	font-family: Montserrat;
+	font-size: 42px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#pardus_logo___beyaz_ek15 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+#page_yeniden_ba_lat_l_yor_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__yeniden_ba_lat_l_yor_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_1_ek14 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#bilgisayar_n_z_yeniden_ba_lat_l_yor_ {
+	top: 464px;
+	left: 173px;
+	width: 1551px;
+	height: 126px;
+	font-family: Montserrat;
+	font-size: 89px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#pardus_logo___beyaz_ek16 {
+	top: 952px;
+	left: 897px;
+	width: 127px;
+	height: 118px;
+}
+
+#page_uykuya_al_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__uykuya_al_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek18 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_1_ek15 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2_ek12 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#bilgisayar_n_z_uykuya_al_ns_n_m__ {
+	top: 187px;
+	left: 158px;
+	width: 1489px;
+	height: 126px;
+	font-family: Montserrat;
+	font-size: 89px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#tik___beyaz_ek1 {
+	top: 500px;
+	left: 48px;
+	width: 64px;
+	height: 52px;
+}
+
+
+#_arp____beyaz_ek1 {
+	top: 589px;
+	left: 57px;
+	width: 40px;
+	height: 40px;
+}
+
+
+#evet___imdi_uykuya_al_ {
+	top: 486px;
+	left: 158px;
+	width: 470px;
+	height: 60px;
+	font-family: Montserrat;
+	font-size: 42px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#hay_r__uykuya_alma_ {
+	top: 572px;
+	left: 158px;
+	width: 426px;
+	height: 60px;
+	font-family: Montserrat;
+	font-size: 42px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#ay___beyaz_ek1 {
+	top: 240px;
+	left: 55px;
+	width: 51px;
+	height: 52px;
+}
+
+
+#pardus_logo___beyaz_ek17 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+#page_kullan_c__de_i_tirme_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__kullan_c__de_i_tirme_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek19 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_1_ek16 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2_ek13 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#ki_i___beyaz_ek4 {
+	top: 147px;
+	left: 50px;
+	width: 62px;
+	height: 63px;
+}
+
+
+#rectangle_9_ek5 {
+	top: 0px;
+	left: 1894px;
+	width: 26px;
+	height: 1080px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:#;
+	background: -webkit-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -o-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -moz-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -ms-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+}
+
+
+#_19_30_ek11 {
+	top: 366px;
+	left: 1467px;
+	width: 379px;
+	height: 207px;
+	font-family: Montserrat;
+	font-size: 146px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_27_aral_k_per_embe_ek11 {
+	top: 573px;
+	left: 1467px;
+	width: 353px;
+	height: 51px;
+	font-family: Montserrat;
+	font-size: 36px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#ellipse_1_ek13 {
+	top: 412px;
+	left: 214px;
+	width: 240px;
+	height: 240px;
+	-ms-border-radius: 128px / 128px;
+	-o-border-radius: 128px / 128px;
+	-moz-border-radius: 128px / 128px;
+	-webkit-border-radius: 128px / 128px;
+	border-radius: 128px / 128px;
+	border: 8px solid #ffffff;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#k1_ek15 {
+	top: 445px;
+	left: 261px;
+	width: 131px;
+	height: 156px;
+	font-family: Montserrat;
+	font-size: 110px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kullan_c__1_ek15 {
+	top: 423px;
+	left: 490px;
+	width: 411px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_11_ek11 {
+	top: 555px;
+	left: 490px;
+	width: 404px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(106,106,106,255);
+}
+
+
+#parola_ek7 {
+	top: 558px;
+	left: 506px;
+	width: 64px;
+	height: 26px;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#929292;
+}
+
+
+#rectangle_6_ek11 {
+	top: 555px;
+	left: 845px;
+	width: 49px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#geri___beyaz_ek14 {
+	top: 566px;
+	left: 859px;
+	width: 22.95751953125px;
+	height: 16px;
+}
+
+
+#pardus_logo___beyaz_ek18 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+
+#nopath___kopya {
+	top: 241px;
+	left: 50px;
+	width: 62px;
+	height: 62px;
+}
+
+
+#kullanici___kedi {
+	top: 310px;
+	left: 50px;
+	width: 62px;
+	height: 62px;
+}
+
+
+#kullanici___at {
+	top: 379px;
+	left: 50px;
+	width: 62px;
+	height: 62px;
+}
+
+
+#pil__arj_ediliyor___beyaz_ek8 {
+	top: 1061px;
+	left: 1898px;
+	width: 18px;
+	height: 11px;
+}
+
+#page_kullan_c__de_i_tirildi_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__kullan_c__de_i_tirildi_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek20 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_1_ek17 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_2_ek14 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#ki_i___beyaz_ek5 {
+	top: 147px;
+	left: 50px;
+	width: 62px;
+	height: 63px;
+}
+
+
+#rectangle_9_ek6 {
+	top: 0px;
+	left: 1894px;
+	width: 26px;
+	height: 1080px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:#;
+	background: -webkit-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -o-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -moz-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -ms-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+}
+
+
+#_19_30_ek12 {
+	top: 366px;
+	left: 1467px;
+	width: 379px;
+	height: 207px;
+	font-family: Montserrat;
+	font-size: 146px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_27_aral_k_per_embe_ek12 {
+	top: 573px;
+	left: 1467px;
+	width: 353px;
+	height: 51px;
+	font-family: Montserrat;
+	font-size: 36px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#ellipse_1_ek14 {
+	top: 247px;
+	left: 59px;
+	width: 36px;
+	height: 36px;
+	-ms-border-radius: 22px / 22px;
+	-o-border-radius: 22px / 22px;
+	-moz-border-radius: 22px / 22px;
+	-webkit-border-radius: 22px / 22px;
+	border-radius: 22px / 22px;
+	border: 4px solid #ffffff;
+	-ms-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 3px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#k1_ek16 {
+	top: 252px;
+	left: 66px;
+	width: 29px;
+	height: 28px;
+	font-family: Montserrat;
+	font-size: 20px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kullan_c__2 {
+	top: 423px;
+	left: 490px;
+	width: 427px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_11_ek12 {
+	top: 555px;
+	left: 490px;
+	width: 404px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(106,106,106,255);
+}
+
+
+#parola_ek8 {
+	top: 558px;
+	left: 506px;
+	width: 64px;
+	height: 26px;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#929292;
+}
+
+
+#rectangle_6_ek12 {
+	top: 555px;
+	left: 845px;
+	width: 49px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#geri___beyaz_ek15 {
+	top: 566px;
+	left: 859px;
+	width: 22.95751953125px;
+	height: 16px;
+}
+
+
+#pardus_logo___beyaz_ek19 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+
+#nopath {
+	top: 412px;
+	left: 205px;
+	width: 274px;
+	height: 277px;
+}
+
+
+#kullanici___kedi_ek1 {
+	top: 310px;
+	left: 50px;
+	width: 62px;
+	height: 62px;
+}
+
+
+#kullanici___at_ek1 {
+	top: 379px;
+	left: 50px;
+	width: 62px;
+	height: 62px;
+}
+
+
+#tik___ye_il {
+	top: 609px;
+	left: 481px;
+	width: 52px;
+	height: 43px;
+}
+
+
+#oturum_a__ld_ {
+	top: 602px;
+	left: 530px;
+	width: 176px;
+	height: 34px;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#pil__arj_ediliyor___beyaz_ek9 {
+	top: 1061px;
+	left: 1898px;
+	width: 18px;
+	height: 11px;
+}
+
+#page_se_enekler_ek1 {
+	top: 5624px;
+	left: 2200px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__se_enekler_ek2 {
+	top: -5624px;
+	left: -2200px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek21 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_12_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_13_ek1 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#rectangle_14_ek1 {
+	top: 0px;
+	left: 1467px;
+	width: 453px;
+	height: 1080px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:#;
+	background: -webkit-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -o-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -moz-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -ms-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+}
+
+
+#ellipse_3_ek1 {
+	top: 412px;
+	left: 214px;
+	width: 240px;
+	height: 240px;
+	-ms-border-radius: 128px / 128px;
+	-o-border-radius: 128px / 128px;
+	-moz-border-radius: 128px / 128px;
+	-webkit-border-radius: 128px / 128px;
+	border-radius: 128px / 128px;
+	border: 8px solid #ffffff;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#k1_ek17 {
+	top: 445px;
+	left: 261px;
+	width: 131px;
+	height: 156px;
+	font-family: Montserrat;
+	font-size: 110px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kullan_c__1_ek16 {
+	top: 423px;
+	left: 490px;
+	width: 411px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_15_ek1 {
+	top: 555px;
+	left: 490px;
+	width: 404px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(106,106,106,255);
+}
+
+
+#parola_ek9 {
+	top: 558px;
+	left: 506px;
+	width: 64px;
+	height: 26px;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#929292;
+}
+
+
+#rectangle_16_ek1 {
+	top: 555px;
+	left: 845px;
+	width: 49px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#geri___beyaz_ek16 {
+	top: 566px;
+	left: 859px;
+	width: 22.9580078125px;
+	height: 16px;
+}
+
+
+#pardus_logo___beyaz_ek20 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+
+#se_enekler_ek3 {
+	top: 13px;
+	left: 1493px;
+	width: 320px;
+	height: 77px;
+	font-family: Montserrat;
+	font-size: 54px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#parbar___ki_iselle_tir {
+	top: 171px;
+	left: 1493px;
+	width: 335px;
+	height: 47px;
+	font-family: Montserrat;
+	font-size: 33px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kilitli_ekran_arka_plan_n__de_i_tir {
+	top: 246px;
+	left: 1493px;
+	width: 406px;
+	height: 87px;
+	font-family: Montserrat;
+	font-size: 33px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#geri___beyaz_ek17 {
+	top: 897px;
+	left: 54px;
+	width: 50.9404296875px;
+	height: 41px;
+}
+
+#page_parbar___ki_iselle_tir_ek2 {
+	top: 5624px;
+	left: 4190px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__parbar___ki_iselle_tir_ek3 {
+	top: -5624px;
+	left: -4190px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek22 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_12_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_13_ek2 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#rectangle_14_ek2 {
+	top: 0px;
+	left: 1467px;
+	width: 453px;
+	height: 1080px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:#;
+	background: -webkit-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -o-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -moz-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -ms-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+}
+
+
+#ellipse_3_ek2 {
+	top: 412px;
+	left: 214px;
+	width: 240px;
+	height: 240px;
+	-ms-border-radius: 128px / 128px;
+	-o-border-radius: 128px / 128px;
+	-moz-border-radius: 128px / 128px;
+	-webkit-border-radius: 128px / 128px;
+	border-radius: 128px / 128px;
+	border: 8px solid #ffffff;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#k1_ek18 {
+	top: 445px;
+	left: 261px;
+	width: 131px;
+	height: 156px;
+	font-family: Montserrat;
+	font-size: 110px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#kullan_c__1_ek17 {
+	top: 423px;
+	left: 490px;
+	width: 411px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_15_ek2 {
+	top: 555px;
+	left: 490px;
+	width: 404px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(106,106,106,255);
+}
+
+
+#parola_ek10 {
+	top: 558px;
+	left: 506px;
+	width: 64px;
+	height: 26px;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#929292;
+}
+
+
+#rectangle_16_ek2 {
+	top: 555px;
+	left: 845px;
+	width: 49px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#geri___beyaz_ek18 {
+	top: 566px;
+	left: 859px;
+	width: 22.9580078125px;
+	height: 16px;
+}
+
+
+#pardus_logo___beyaz_ek21 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+
+#parbar___ki_iselle_tir_ek4 {
+	top: 13px;
+	left: 1493px;
+	width: 323px;
+	height: 143px;
+	font-family: Montserrat;
+	font-size: 54px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#parbar_ara_lar_ {
+	top: 220px;
+	left: 1493px;
+	width: 260px;
+	height: 47px;
+	font-family: Montserrat;
+	font-size: 33px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#arama {
+	top: 294px;
+	left: 1493px;
+	width: 117px;
+	height: 47px;
+	font-family: Montserrat;
+	font-size: 33px;
+	text-align: left;
+	color:#a5a5a5;
+}
+
+
+#yeri_de_i_tirilemez {
+	top: 311px;
+	left: 1760px;
+	width: 127px;
+	height: 19px;
+	font-family: Montserrat;
+	font-size: 13px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#a5a5a5;
+}
+
+
+#hava_durumu {
+	top: 348px;
+	left: 1493px;
+	width: 240px;
+	height: 47px;
+	font-family: Montserrat;
+	font-size: 33px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#haberler_ek1 {
+	top: 402px;
+	left: 1491px;
+	width: 150px;
+	height: 47px;
+	font-family: Montserrat;
+	font-size: 33px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#pardus_forum_ek1 {
+	top: 456px;
+	left: 1491px;
+	width: 244px;
+	height: 47px;
+	font-family: Montserrat;
+	font-size: 33px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#e_posta_ek1 {
+	top: 510px;
+	left: 1491px;
+	width: 133px;
+	height: 47px;
+	font-family: Montserrat;
+	font-size: 33px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#m_zik_ek1 {
+	top: 564px;
+	left: 1493px;
+	width: 106px;
+	height: 47px;
+	font-family: Montserrat;
+	font-size: 33px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#pardus_store_dan_daha_fazla_ara__edinin {
+	top: 1026px;
+	left: 1491px;
+	width: 398px;
+	height: 27px;
+	font-family: Montserrat;
+	font-size: 19px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#geri___beyaz_ek19 {
+	top: 897px;
+	left: 54px;
+	width: 50.9404296875px;
+	height: 41px;
+}
+
+#page_ayar_onay__ek1 {
+	top: 5624px;
+	left: 6180px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__ayar_onay__ek2 {
+	top: -5624px;
+	left: -6180px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek23 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_12_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_13_ek3 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#rectangle_14_ek3 {
+	top: 0px;
+	left: 1467px;
+	width: 453px;
+	height: 1080px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:#;
+	background: -webkit-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -o-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -moz-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -ms-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+}
+
+
+#pardus_logo___beyaz_ek22 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+
+#parbar___ki_iselle_tir_ek5 {
+	top: 13px;
+	left: 1493px;
+	width: 323px;
+	height: 143px;
+	font-family: Montserrat;
+	font-size: 54px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#parbar_ara_lar__ek1 {
+	top: 220px;
+	left: 1493px;
+	width: 260px;
+	height: 47px;
+	font-family: Montserrat;
+	font-size: 33px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#arama_ek1 {
+	top: 294px;
+	left: 1493px;
+	width: 117px;
+	height: 47px;
+	font-family: Montserrat;
+	font-size: 33px;
+	text-align: left;
+	color:#a5a5a5;
+}
+
+
+#yeri_de_i_tirilemez_ek1 {
+	top: 311px;
+	left: 1760px;
+	width: 127px;
+	height: 19px;
+	font-family: Montserrat;
+	font-size: 13px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#a5a5a5;
+}
+
+
+#hava_durumu_ek1 {
+	top: 348px;
+	left: 1493px;
+	width: 240px;
+	height: 47px;
+	font-family: Montserrat;
+	font-size: 33px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#haberler_ek2 {
+	top: 402px;
+	left: 1491px;
+	width: 150px;
+	height: 47px;
+	font-family: Montserrat;
+	font-size: 33px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#pardus_forum_ek2 {
+	top: 456px;
+	left: 1491px;
+	width: 244px;
+	height: 47px;
+	font-family: Montserrat;
+	font-size: 33px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#e_posta_ek2 {
+	top: 510px;
+	left: 1491px;
+	width: 133px;
+	height: 47px;
+	font-family: Montserrat;
+	font-size: 33px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#m_zik_ek2 {
+	top: 564px;
+	left: 1493px;
+	width: 106px;
+	height: 47px;
+	font-family: Montserrat;
+	font-size: 33px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#pardus_store_dan_daha_fazla_ara__edinin_ek1 {
+	top: 1026px;
+	left: 1491px;
+	width: 398px;
+	height: 27px;
+	font-family: Montserrat;
+	font-size: 19px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#yap_lan_ayarlar_ge_erli_kullan_c__i_in_kaydedilsin_mi___kullan_c__1 {
+	top: 223px;
+	left: 158px;
+	width: 1166px;
+	height: 117px;
+	font-family: Montserrat;
+	font-size: 44px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#tik___beyaz_ek2 {
+	top: 500px;
+	left: 48px;
+	width: 64px;
+	height: 52px;
+}
+
+
+#_arp____beyaz_ek2 {
+	top: 589px;
+	left: 57px;
+	width: 40px;
+	height: 40px;
+}
+
+
+#evet__ayarlar__kaydet__parola_gerekli {
+	top: 486px;
+	left: 158px;
+	width: 638px;
+	height: 60px;
+	font-family: Montserrat;
+	font-size: 42px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#hay_r__ayarlar__kaydetme_ {
+	top: 572px;
+	left: 158px;
+	width: 539px;
+	height: 60px;
+	font-family: Montserrat;
+	font-size: 42px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+#page_kilitli_ekran_arka_plan_n__de_i_tir_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__kilitli_ekran_arka_plan_n__de_i_tir_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek24 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_12_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_13_ek4 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#rectangle_14_ek4 {
+	top: 0px;
+	left: 1467px;
+	width: 453px;
+	height: 1080px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:#;
+	background: -webkit-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -o-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -moz-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -ms-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+}
+
+
+#pardus_logo___beyaz_ek23 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+
+#kilitli_ekran_arka_plan_n__de_i_tir_ek4 {
+	top: 13px;
+	left: 1493px;
+	width: 339px;
+	height: 209px;
+	font-family: Montserrat;
+	font-size: 54px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#geri___beyaz_ek20 {
+	top: 897px;
+	left: 54px;
+	width: 50.9404296875px;
+	height: 41px;
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek25 {
+	top: 272px;
+	left: 1484px;
+	width: 377px;
+	height: 220px;
+}
+
+
+#uyguland_ {
+	top: 342px;
+	left: 1562px;
+	width: 227px;
+	height: 60px;
+	font-family: Montserrat;
+	font-size: 42px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#flat_wallpaper_01 {
+	top: 736px;
+	left: 1484px;
+	width: 377px;
+	height: 220px;
+}
+
+
+#flat_wallpaper_02 {
+	top: 510px;
+	left: 1493px;
+	width: 359px;
+	height: 202px;
+}
+
+
+#flat_wallpaper_05 {
+	top: 974px;
+	left: 1493px;
+	width: 359px;
+	height: 202px;
+}
+
+
+#rectangle_26 {
+	top: 278px;
+	left: 1902px;
+	width: 16px;
+	height: 156px;
+	-ms-border-radius: 9px;
+	-o-border-radius: 9px;
+	-moz-border-radius: 9px;
+	-webkit-border-radius: 9px;
+	border-radius: 9px;
+	border: 1px solid #707070;
+	background:rgba(101,101,101,255);
+}
+
+#page_se_ili_arka_plan_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__se_ili_arka_plan_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek26 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_12_ek5 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_13_ek5 {
+	top: 118px;
+	left: 31px;
+	width: 98px;
+	height: 845px;
+	-ms-border-radius: 27px;
+	-o-border-radius: 27px;
+	-moz-border-radius: 27px;
+	-webkit-border-radius: 27px;
+	border-radius: 27px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#rectangle_14_ek5 {
+	top: 0px;
+	left: 1467px;
+	width: 453px;
+	height: 1080px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:#;
+	background: -webkit-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -o-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -moz-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -ms-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+}
+
+
+#pardus_logo___beyaz_ek24 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+
+#kilitli_ekran_arka_plan_n__de_i_tir_ek5 {
+	top: 13px;
+	left: 1493px;
+	width: 339px;
+	height: 209px;
+	font-family: Montserrat;
+	font-size: 54px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek27 {
+	top: 272px;
+	left: 1484px;
+	width: 377px;
+	height: 220px;
+}
+
+
+#flat_wallpaper_01_ek1 {
+	top: 736px;
+	left: 1484px;
+	width: 377px;
+	height: 220px;
+}
+
+
+#uyguland__ek1 {
+	top: 342px;
+	left: 1555px;
+	width: 227px;
+	height: 60px;
+	font-family: Montserrat;
+	font-size: 42px;
+	text-align: center;
+	color:#ffffff;
+}
+
+
+#flat_wallpaper_02_ek1 {
+	top: 510px;
+	left: 1493px;
+	width: 359px;
+	height: 202px;
+}
+
+
+#flat_wallpaper_05_ek1 {
+	top: 974px;
+	left: 1493px;
+	width: 359px;
+	height: 202px;
+}
+
+
+#rectangle_26_ek1 {
+	top: 278px;
+	left: 1902px;
+	width: 16px;
+	height: 156px;
+	-ms-border-radius: 9px;
+	-o-border-radius: 9px;
+	-moz-border-radius: 9px;
+	-webkit-border-radius: 9px;
+	border-radius: 9px;
+	border: 1px solid #707070;
+	background:rgba(101,101,101,255);
+}
+
+
+#se_ilen_arka_plan_ge_erli_kullan_c_n_n_kilitli_ekran_na_uygulans_n_m____kullan_c__1 {
+	top: 223px;
+	left: 158px;
+	width: 1168px;
+	height: 171px;
+	font-family: Montserrat;
+	font-size: 44px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#tik___beyaz_ek3 {
+	top: 500px;
+	left: 48px;
+	width: 64px;
+	height: 52px;
+}
+
+
+#_arp____beyaz_ek3 {
+	top: 589px;
+	left: 57px;
+	width: 40px;
+	height: 40px;
+}
+
+
+#evet__arka_plan__uygula__parola_gerekli {
+	top: 486px;
+	left: 158px;
+	width: 692px;
+	height: 60px;
+	font-family: Montserrat;
+	font-size: 42px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#hay_r__arka_plan__uygulama_ {
+	top: 572px;
+	left: 158px;
+	width: 592px;
+	height: 60px;
+	font-family: Montserrat;
+	font-size: 42px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_27 {
+	opacity:0.65098039215686;
+	top: 510px;
+	left: 1493px;
+	width: 357px;
+	height: 200px;
+	border: 1px solid #707070;
+	background:rgba(70,70,70,166);
+}
+
+
+#flat_wallpaper_02_ek2 {
+	top: 678px;
+	left: 796px;
+	width: 638px;
+	height: 359px;
+}
+
+
+#_u_anda_se_ili {
+	top: 574px;
+	left: 1518px;
+	width: 301px;
+	height: 60px;
+	font-family: Montserrat;
+	font-size: 42px;
+	text-align: center;
+	color:#ffffff;
+}
+
+
+#_19_30_ek13 {
+	top: 680px;
+	left: 818px;
+	width: 151px;
+	height: 80px;
+	font-family: Montserrat;
+	font-size: 57px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_27_aral_k_per_embe_ek13 {
+	top: 760px;
+	left: 818px;
+	width: 131px;
+	height: 19px;
+	font-family: Montserrat;
+	font-size: 13px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_nizleme {
+	top: 617px;
+	left: 818px;
+	width: 170px;
+	height: 47px;
+	font-family: Montserrat;
+	font-size: 33px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+#page_yeni_arka_plan_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__yeni_arka_plan_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#flat_wallpaper_02_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#_19_30_ek14 {
+	top: -16px;
+	left: 34px;
+	width: 379px;
+	height: 207px;
+	font-family: Montserrat;
+	font-size: 146px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#_27_aral_k_per_embe_ek14 {
+	top: 190px;
+	left: 34px;
+	width: 353px;
+	height: 51px;
+	font-family: Montserrat;
+	font-size: 36px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#pil__arj_ediliyor___beyaz_ek10 {
+	top: 259px;
+	left: 34px;
+	width: 34px;
+	height: 21px;
+}
+
+
+#piliniz_tam_dolu__bilgisayar_n_z__g___kayna__ndan_ay_rabilirsiniz__ek1 {
+	top: 259px;
+	left: 75px;
+	width: 416px;
+	height: 19px;
+	font-family: Montserrat;
+	font-size: 13px;
+	text-align: left;
+	color:#ffffff;
+}
+
+
+#rectangle_24_ek2 {
+	top: 899px;
+	left: 493px;
+	width: 933px;
+	height: 127px;
+	-ms-border-radius: 20px;
+	-o-border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(6,20,114,255);
+}
+
+
+#kilitli_ekran_arka_plan__ayarland__ {
+	top: 932px;
+	left: 517px;
+	width: 614px;
+	height: 52px;
+	font-family: Montserrat;
+	font-size: 37px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#page_ayar__de_i_tirmek_i_in_parola_girin__ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	overflow:hidden;
+}
+
+#_bg__ayar__de_i_tirmek_i_in_parola_girin__ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+	background:rgba(255,255,255,255);
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek28 {
+	top: 0px;
+	left: 0px;
+	width: 1920px;
+	height: 1080px;
+}
+
+
+#rectangle_12_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 1918px;
+	height: 1078px;
+	border: 1px solid #707070;
+	background:rgba(255,255,255,255);
+}
+
+
+#rectangle_14_ek6 {
+	top: 0px;
+	left: 1467px;
+	width: 453px;
+	height: 1080px;
+	-ms-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-o-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-webkit-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	-moz-box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	box-shadow:12px 12px 5px 1px rgba(136,136,136,0.41);
+	background:#;
+	background: -webkit-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -o-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -moz-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: -ms-linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+	background: linear-gradient(-90deg , rgba(0,0,0,255) 0%, rgba(0,0,0,0) 100%);
+}
+
+
+#pardus_logo___beyaz_ek25 {
+	top: 23px;
+	left: 38px;
+	width: 85px;
+	height: 80px;
+}
+
+
+#kilitli_ekran_arka_plan_n__de_i_tir_ek6 {
+	top: 13px;
+	left: 1493px;
+	width: 339px;
+	height: 209px;
+	font-family: Montserrat;
+	font-size: 54px;
+	text-align: left;
+	-ms-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 12px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#mtu4ntdlmtrkyjq5zjq_ek29 {
+	top: 272px;
+	left: 1484px;
+	width: 377px;
+	height: 220px;
+}
+
+
+#flat_wallpaper_01_ek2 {
+	top: 736px;
+	left: 1484px;
+	width: 377px;
+	height: 220px;
+}
+
+
+#uyguland__ek2 {
+	top: 342px;
+	left: 1555px;
+	width: 227px;
+	height: 60px;
+	font-family: Montserrat;
+	font-size: 42px;
+	text-align: center;
+	color:#ffffff;
+}
+
+
+#flat_wallpaper_02_ek4 {
+	top: 516px;
+	left: 1493px;
+	width: 359px;
+	height: 202px;
+}
+
+
+#flat_wallpaper_05_ek2 {
+	top: 974px;
+	left: 1493px;
+	width: 359px;
+	height: 202px;
+}
+
+
+#rectangle_26_ek2 {
+	top: 278px;
+	left: 1902px;
+	width: 16px;
+	height: 156px;
+	-ms-border-radius: 9px;
+	-o-border-radius: 9px;
+	-moz-border-radius: 9px;
+	-webkit-border-radius: 9px;
+	border-radius: 9px;
+	border: 1px solid #707070;
+	background:rgba(101,101,101,255);
+}
+
+
+#ayarlamay__tamamlamak_i_in_kullan_c__1_parolas_n__girin_ {
+	top: 223px;
+	left: 158px;
+	width: 1263px;
+	height: 63px;
+	font-family: Montserrat;
+	font-size: 44px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#rectangle_27_ek1 {
+	opacity:0.65098039215686;
+	top: 516px;
+	left: 1493px;
+	width: 357px;
+	height: 200px;
+	border: 1px solid #707070;
+	background:rgba(70,70,70,166);
+}
+
+
+#_u_anda_se_ili_ek1 {
+	top: 574px;
+	left: 1518px;
+	width: 301px;
+	height: 60px;
+	font-family: Montserrat;
+	font-size: 42px;
+	text-align: center;
+	color:#ffffff;
+}
+
+
+#rectangle_15_ek3 {
+	top: 555px;
+	left: 490px;
+	width: 404px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(106,106,106,255);
+}
+
+
+#parola_ek11 {
+	top: 558px;
+	left: 506px;
+	width: 64px;
+	height: 26px;
+	font-family: Montserrat;
+	font-size: 18px;
+	text-align: left;
+	color:#929292;
+}
+
+
+#rectangle_16_ek3 {
+	top: 555px;
+	left: 845px;
+	width: 49px;
+	height: 35px;
+	-ms-border-radius: 11px;
+	-o-border-radius: 11px;
+	-moz-border-radius: 11px;
+	-webkit-border-radius: 11px;
+	border-radius: 11px;
+	border: 1px solid #707070;
+	-ms-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 6px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(0,0,0,255);
+}
+
+
+#k1_ek19 {
+	top: 445px;
+	left: 261px;
+	width: 131px;
+	height: 156px;
+	font-family: Montserrat;
+	font-size: 110px;
+	text-align: center;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#ellipse_3_ek3 {
+	top: 412px;
+	left: 214px;
+	width: 240px;
+	height: 240px;
+	-ms-border-radius: 128px / 128px;
+	-o-border-radius: 128px / 128px;
+	-moz-border-radius: 128px / 128px;
+	-webkit-border-radius: 128px / 128px;
+	border-radius: 128px / 128px;
+	border: 8px solid #ffffff;
+	-ms-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-o-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-webkit-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	-moz-box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	box-shadow:0px 12px 5px 1px rgba(0,0,0,0.41);
+	background:rgba(255,255,255,0);
+}
+
+
+#kullan_c__1_ek18 {
+	top: 423px;
+	left: 490px;
+	width: 411px;
+	height: 113px;
+	font-family: Montserrat;
+	font-size: 80px;
+	text-align: left;
+	-ms-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-o-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-webkit-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	-moz-text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	text-shadow:0px 3px 5px rgba(0,0,0,0.41);
+	color:#ffffff;
+}
+
+
+#geri___beyaz_ek21 {
+	top: 566px;
+	left: 859px;
+	width: 22.9580078125px;
+	height: 16px;
+}
+
+
+
+/* Add your custom CSS here */
